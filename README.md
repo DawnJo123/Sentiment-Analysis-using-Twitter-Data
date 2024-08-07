@@ -44,3 +44,6 @@ Or you can download the dataset directly from [here](https://www.kaggle.com/data
 #### 5. Run the Project
 #### 6. Save the model 
 You can save the model using Pickle library in .pkl format. You can reuse this .pkl file to predict sentiments based on your input.
+
+## Result
+While performing classification on this twitter data, we got an accuracy of 80% on training data and 77% on test data.
